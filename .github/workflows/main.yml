@@ -2,7 +2,7 @@ name: Get Feed
 
 on:
   schedule:
-    - cron: '20 19 * * * — This runs the job at 7:20 PM UTC
+    - cron: '15 19 * * * — This runs the job at 7:20 PM UTC
   workflow_dispatch:
 
 jobs:
